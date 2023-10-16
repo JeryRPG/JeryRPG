@@ -1,14 +1,13 @@
-# Personal site
+# Personal Github
 This is my personal site, where my projects are located. 
-## Content
-* [Ecuadoriam programmer, 20yo, [ENG(learning)/ESP]](#información-personal)
-* [Proyects](#proyectos)
-* [Html, Css, Javascript, Lua](#intereses)
 ## Information
-* Name: [Jeremy Poveda]
-* Occupation: [CS Student]
-* Website: [myWeb]
+* Name: Jeremy Poveda
+* Ecuadoriam programmer 🇪🇨
+* Occupation: [CS Student in ESPOL](https://www.espol.edu.ec)
+* Website: [](https://jeremy-poveda.github.io/curriculum/)
 ## Proyects
-* [List of proyects]
+* [Custom Emoji Creator 😃](https://github.com/Jeremy-Poveda/Custom-Emoji-Creator)
 ## Interest
-* [List of interest]
+* Html, Css, Javascript, Rust
+* Web Development: Front End, Nodejs, Back End.
+* Game Development: Make games with Rust and Bevy.
