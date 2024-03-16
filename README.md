@@ -4,7 +4,7 @@ This is my personal site, where my projects are located.
 * Name: Jeremy Poveda
 * Ecuadoriam programmer 🇪🇨
 * Occupation: [CS Student in ESPOL](https://www.espol.edu.ec)
-* Website: [Curriculum Vitae](https://jeremy-poveda.github.io/curriculum/)
+* CV: [Curriculum Vitae](https://jeremy-poveda.github.io/curriculum/)
 ## Proyects
 * [Custom Emoji Creator 😃](https://github.com/Jeremy-Poveda/Custom-Emoji-Creator)
 * [Medical appointment system 📝](https://github.com/Jeremy-Poveda/Medical-appointment-system-for-special-children)
